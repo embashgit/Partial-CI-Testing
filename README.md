@@ -1,1 +1,2 @@
-Testing out New and modified changes only Both on Local and CI
+Testing new and modified changes only on CI and Local
+Started Next JS
