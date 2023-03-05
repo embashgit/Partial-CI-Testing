@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "test": "jest --watch",
+    "test": "jest --watchAll=false --coverage",
     "test:ci": "node run-test.js",
     "start": "next start"
   },
