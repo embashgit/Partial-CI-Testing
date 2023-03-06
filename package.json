@@ -6,7 +6,7 @@
     "test": "jest --watchAll=false --coverage",
     "test:ci": "node run-test.js",
     "test:onlychanged": "jest --onlyChanged --coverage",
-    "test:changedsince": "jest --changedSince=master --coverage",
+    "test:changedsince": "jest --changedSince=main --coverage",
     "start": "next start"
   },
   "dependencies": {
