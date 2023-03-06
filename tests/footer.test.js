@@ -6,6 +6,6 @@ import { render, screen } from "@testing-library/react";
 describe("Calculator", () => {
     it("renders a footer", () => {
       render(<Footer />);
-      expect(screen.getByTestId("footer")).toHaveTextContent("this is a footer");;
+      expect(screen.getByTestId("footer")).toHaveTextContent("this is a generic footer");;
     })
 })

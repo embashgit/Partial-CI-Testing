@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div data-testid="footer">this is a footer</div>
+    <div data-testid="footer">this is a generic footer</div>
   )
 }
 
